@@ -1,6 +1,6 @@
 # EasyBroker Integration API
 
-![CI Pipeline](https://github.com/toledo96/EasyBroker-Integration/actions/workflows/ci.yml/badge.svg)
+![CI Pipeline](https://github.com/toledo96/EasyBroker-Integration/actions/workflows/ci.yml/badge.svg?branch=master)
 
 Proyecto en Spring Boot 3.5.x que consume la API de EasyBroker para obtener propiedades, agentes, contactos y desarrollos. Incluye pruebas unitarias y de integración, documentación con Swagger y pipeline CI/CD en GitHub Actions.
 
